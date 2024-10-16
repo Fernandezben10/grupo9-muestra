@@ -22,10 +22,14 @@ header img{
 .nav-links{
     display: flex;
     margin-right: 15px;
+    gap: 15px;
 }
 .nav-links a{
     text-decoration: none;
     color: white;
+}
+.nav-links a:hover{
+    color: lightgray;
 }
 .logo a{
     display: flex;
@@ -72,7 +76,10 @@ header img{
     font-size: larger;
 }
 footer {
-    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    background-color: rgb(100, 100, 100);
 }
 .imagen{
     display: flex;
@@ -80,4 +87,9 @@ footer {
 }
 .imagen img{
     width: 500px;
+}
+
+.carousel-inner{
+    height: 20%;
+    width:auto;
 }
