@@ -54,6 +54,7 @@ header img{
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
+    font-size: xxx-large;
 }
 .flor{
     display: flex;
@@ -78,8 +79,12 @@ header img{
 footer {
     display: flex;
     justify-content: center;
-    padding-top: 5%;
+    padding-top: 3.5%;
+    padding-bottom: 1%;
     background-color: rgb(100, 100, 100);
+    color: rgb(53, 53, 53);
+    font-family: "Barlow Condensed", sans-serif;
+    font-size: 1.3rem;
 }
 .imagen{
     display: flex;
