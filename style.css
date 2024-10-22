@@ -46,7 +46,6 @@ header img{
     width: 85%;
     box-shadow: 0px 0px 15px black;
     color: white;
-    
 }
 .contenedor h1{
     display: flex;
@@ -97,4 +96,17 @@ footer {
 .carousel-inner{
     height: 20%;
     width:auto;
+}
+.titulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+hr{
+    width: 98%;
+    display: flex;
+    justify-content: center;
+}
+.pasos{
+    padding: 15px;
 }
