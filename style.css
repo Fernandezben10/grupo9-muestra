@@ -97,10 +97,6 @@ footer {
     width: 500px;
 }
 
-.carousel-inner{
-    height: 20%;
-    width:auto;
-}
 .titulo{
     display: flex;
     flex-direction: column;
@@ -127,4 +123,16 @@ hr{
 }
 .bandera{
     width: 21px;
+}
+a img{
+    padding-right: 5px;
+    width: 21px;
+}
+
+.img_ches {
+    padding-bottom: 3%;
+}
+
+.paloma{
+    padding-bottom: 5%;
 }
