@@ -121,6 +121,9 @@ hr{
     text-decoration: none;
     color: black;
 }
+.fundadores a img{
+    width: 21px;
+}
 .bandera{
     width: 21px;
 }
